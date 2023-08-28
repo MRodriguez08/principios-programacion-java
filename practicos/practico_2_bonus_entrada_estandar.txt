@@ -1,0 +1,15 @@
+Practico 2 Bonus Entrada Estandar:
+
+Implementar una clase "LoginUsuario" que incluya lo siguiente:
+
+1) Defina e inicialice un Scanner
+
+	* Scanner scanner = new Scanner(System.in);
+
+2) Definir las variables "usuario" y "contrasenia" de tipo String.
+3) Solicitar al usuario ingresar su usuario y asignar dicho valor en la variable "usuario"
+4) Solicitar al usuario ingresar su contrasenia y asignar dicho valor en la variable "contrasenia"
+5) Imprimir el valor de ambas variables usando System.out.println.
+
+Importante: Se debe enviar una foto con el codigo y otra foto con la consola, compilando y
+ejecutando dicho codigo.

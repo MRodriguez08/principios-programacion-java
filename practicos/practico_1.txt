@@ -1,0 +1,12 @@
+Practico 1:
+
+1) Enviar un foto con el código del HolaMundo.java
+
+2) Enviar una foto con la consola, donde se ve el comando para compilar y ejecutar el HolaMundo
+
+3) Enviar un foto con el código del HolaMundo.java con un error puesto "de gusto"
+
+4) Enviar una foto con una compilación con el error
+
+Importante: Se debe enviar una foto con el codigo y otra foto con la consola, compilando y
+ejecutando dicho codigo.

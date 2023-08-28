@@ -1,0 +1,11 @@
+Practico 2:
+
+Implementar una clase "Variables" que incluya lo siguiente:
+
+1) Defina 2 variables: usuario y contraseña
+2) La variable "usuario" se debe declarar e inicializar en la misma linea (valor inicial)
+3) La variable "contrasenia" se debe declarar en una linea (sin asignar valor inicial, y en
+la linea siguiente se debe asignar  un valor.
+
+Importante: Se debe enviar una foto con el codigo y otra foto con la consola, compilando y
+ejecutando dicho codigo.
