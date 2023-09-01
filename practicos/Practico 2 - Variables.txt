@@ -1,4 +1,4 @@
-Practico 2:
+Practico 2: Variables
 
 Implementar una clase "Variables" que incluya lo siguiente:
 

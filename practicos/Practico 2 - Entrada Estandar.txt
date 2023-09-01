@@ -1,4 +1,4 @@
-Practico 2 Bonus Entrada Estandar:
+Practico 2 Bonus: Entrada Estandar
 
 Implementar una clase "LoginUsuario" que incluya lo siguiente:
 

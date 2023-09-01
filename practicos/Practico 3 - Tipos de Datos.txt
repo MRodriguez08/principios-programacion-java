@@ -1,0 +1,18 @@
+Practico 3: Tipos de Datos
+
+Implementar una clase "DatosUsuario" y en ella definir las 
+variables para almacenar los siguientes datos relacionados a un 
+usuario de nuestro sistema:
+	* Nombre (texto)
+	* Apellido (texto)
+	* Edad (entero)
+	* Sexo (‘F’ o ‘M)’
+	* Fecha de Nacimiento (texto)
+	* Altura (decimal)
+	* Habilitado (si o no)
+	* Email (texto)
+	* Contraseña (texto)
+
+Al finalizar imprimir con System.out cada uno de los datos
+definidos.
+

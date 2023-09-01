@@ -1,0 +1,21 @@
+Practico 3 Bonus: Entrada Estandar
+
+Implementar una clase "BuscadorDeTermino" que incluya lo siguiente:
+
+1) Defina una variable "textoInformativo" de tipo String con el siguiente valor:
+
+	String textoInformativo = "El lenguaje de programación Java fue desarrollado originalmente\ 
+		por James Gosling, de Sun Microsystems (constituida en 1983 y posteriormente adquirida el 27 \
+		de enero de 2010 por la compañía Oracle),y publicado en 1995 como un componente fundamental \
+		de la plataforma Java de Sun Microsystems";
+		
+2) Verificar si el texto contiene (.contains("")) la palabra "Java" y almacenar el resultado
+de la expresion booleana en una variable "encontrada".
+
+3) Verificar si el largo (.length()) del texto es mayor a 150 caracteres y almacenar el resultado
+en una variable llamada "elTextoEsDeLargoMayorA150".
+
+4) Imprimir las variables anteriores usando System.out.
+
+Importante: Se debe enviar una foto con el codigo y otra foto con la consola, compilando y
+ejecutando dicho codigo.
