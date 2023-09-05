@@ -16,7 +16,7 @@ public class CondicionalDoble {
 		if (usuario.equals("admin")){
 			System.out.println("El usuario es administrador!");
 		} else {
-			System.out.println("El usuario no es administrador!");
+			System.out.println("El usuario es supervisor!");
 		}
 	
 	}

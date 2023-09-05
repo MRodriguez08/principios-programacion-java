@@ -1,0 +1,58 @@
+Practico 4: Esrtucturas de Control Selectivas
+
+Implementar una clase "ConsolaUsuario" que incluya lo siguiente:
+
+1) Muestre un cabezal de programa como el siguiente con un Menu de usuario:
+
+	##############################################
+	###### CURSO JAVA: CONSOLA DE USUARIO#########
+	##############################################
+
+	Menú de usuario:
+	1) Ver Datos de Usuario
+	2) Actualizar mi Perfil
+	3) Validar Contraseña
+
+2) Pida al usuario ingresar una opcion
+
+	Si el usuario ingresa 1 se debe imprimir
+		
+		"Datos de usuario"
+	
+	Si el usuario ingresa 2 se debe imprimir
+		
+		"Actualizar Perfil"
+		
+	Si el usuario ingresa 3 Vea los requerimientos del Punto 3.
+		
+
+4) Funcionalidad de Validar Contraseña:
+	
+	* El programa debe pedir al usuario ingresar una contraseña mediante el Scanner.
+
+	* Si la contraseña tiene largo menor que 8 muestre el siguiente mensaje
+
+		"La contraseña no cumple con el largo mínimo de 8 caracteres"
+	
+	* Si es de largo 8 o mayor 
+	
+		"El lago de la contraseña es seguro."
+	
+	* La contraseña debe contener la palabra "CursoJava". Si no contiene mostrar el mensage
+
+		"La contraseña debe contener la palabra 'CursoJava'"
+	
+	* Si ambas reglas de seguridad se cumple
+		
+		* Pedir al usuario ingresar confirmación de contraseña (usando scanner)
+		
+	* Si la contraseña ingresada al comienzo y la confirmación coinciden mostrar el siguiente mensaje
+	
+		"La contraseña es segura y coincide con la confirmación."
+		
+	* Si las contraseñas no coinciden
+	
+		"Contraseña y confirmación de contraseña no coinciden".
+			
+Importante: Se debe enviar una foto con el codigo y otra foto con la consola, compilando y
+ejecutando dicho codigo.

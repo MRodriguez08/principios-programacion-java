@@ -1,4 +1,4 @@
-Practico 3 Bonus: Entrada Estandar
+Practico 3 Bonus: Expresiones Booleanas
 
 Implementar una clase "BuscadorDeTermino" que incluya lo siguiente:
 
@@ -13,7 +13,7 @@ Implementar una clase "BuscadorDeTermino" que incluya lo siguiente:
 de la expresion booleana en una variable "encontrada".
 
 3) Verificar si el largo (.length()) del texto es mayor a 150 caracteres y almacenar el resultado
-en una variable llamada "elTextoEsDeLargoMayorA150".
+de la expresion booleana en una variable llamada "elTextoEsDeLargoMayorA150".
 
 4) Imprimir las variables anteriores usando System.out.
 

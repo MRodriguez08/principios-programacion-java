@@ -16,7 +16,7 @@ public class CondicionalMultiple {
 		if (usuario.equals("admin")){
 			System.out.println("El usuario es administrador!");
 		} else if (usuario.equals("supervisor")){
-			System.out.println("El usuario no es supervisor!");
+			System.out.println("El usuario es supervisor!");
 		} else {
 			System.out.println("Acceso restringido.");
 		}

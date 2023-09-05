@@ -1,11 +1,3 @@
-
-/**
-* Programa: Hola Mundo 
-*
-* El objetivo de este programa es saludar al mundo!
-*
-* @author: Mauricio Rodriguez
-*/
 public class HolaMundo {
 	
 	
