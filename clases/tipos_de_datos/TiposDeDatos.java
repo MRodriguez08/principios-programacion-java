@@ -1,3 +1,12 @@
+
+/**
+* Programa: Tipos de Datos
+*
+* El objetivo de este programa es utilizar de forma general
+* los distintos tipos de datos en Java.
+*
+* @author: Mauricio Rodriguez
+*/
 public class TiposDeDatos {
 	
 	public static void main(String[] args){
