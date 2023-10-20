@@ -57,10 +57,8 @@ public class PrimitivosYReferencias {
 		}
 		
 		// convertir un float a int
-		Integer estaturaInteger = estaturaWrapper.intValue();
-		System.out.println("Estatura "+estatura+" convertido a Int: " + estaturaInteger);
-		
-		
+		int estaturaInt = estaturaWrapper.intValue();
+		System.out.println("Estatura "+estaturaWrapper+" convertido a Int: " + estaturaInt);
 		
 	}
 	
